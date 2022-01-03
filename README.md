@@ -1,6 +1,6 @@
 ### Hey there, folks 👋
 
-My name is Rahul. I am a sophomore year CSE undergrad from National Institute of Technology, Durgapur. I'm currently interested in Development and Web Designs (UI/UX) or AI/ML.
+My name is Rahul. I am a sophomore year CSE undergrad from National Institute of Technology, Durgapur. I'm currently interested in Development, Web Designs (UI/UX) and AI/ML.
 
 🌱 I’m currently digging Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="16" height="16" align="center"/>
 <br>
