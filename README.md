@@ -1,6 +1,6 @@
 ### Hey there, folks 👋
 
-I am Rahul. A sophomore year CS undergrad from National Institute of Technology, Durgapur.
+Sophomore year CS undergrad from National Institute of Technology, Durgapur.
 
 🌱 I’m currently digging Deep Neural Networks 
 <br>
