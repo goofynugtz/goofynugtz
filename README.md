@@ -2,7 +2,7 @@
 
 Final year CS undergrad from National Institute of Technology, Durgapur.
 
-🌱 I’m currently digging Deep Neural Networks and Flutter
+🌱 I’m currently digging Deep Neural Networks, golang and Rust
 <br>
 😄 Pronouns: he/him
 📫 How to reach me:
