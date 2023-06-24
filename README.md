@@ -4,7 +4,7 @@ Sophomore year CS undergrad from National Institute of Technology, Durgapur.
 
 🌱 I’m currently digging Deep Neural Networks and Flutter
 <br>
-😄 Pronouns: he/him
+😄 Pronouns: he/him  
 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/ranjanrahul42/">
