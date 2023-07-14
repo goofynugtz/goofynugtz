@@ -1,6 +1,6 @@
 ### Hey there, folks 👋
 
-Sophomore year CS undergrad from National Institute of Technology, Durgapur.
+Final year CS undergrad from National Institute of Technology, Durgapur.
 
 🌱 I’m currently digging Deep Neural Networks, golang & Rust
 <br>
